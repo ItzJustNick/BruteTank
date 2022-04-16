@@ -1,5 +1,5 @@
 ---
-# BruteTank
+# BruteTank - ItsJustNick
 BruteTank is a game made by me and was intended as being the game I turn in for my Maths For Games Assignment.
 
 ---
